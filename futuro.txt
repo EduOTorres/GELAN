@@ -1,0 +1,11 @@
+- Programação orientada a objetos
+- Java
+- Spring boot
+- bancos de dados relacionais (SQL)
+- APIs rest
+- Testes unitários
+
+- Git versionamento
+
+- SOLID
+- CRUD banco de dados
